@@ -1,3 +1,6 @@
+<img width="1474" height="765" alt="FOODIEHUB_PREMIUM_FOOD_ORDERING_SYSTEM" src="https://github.com/user-attachments/assets/16409b90-79b0-4741-9103-6f6e4ea76d2b" />
+
+
 # 🍔 FoodieHub Premium Food Ordering System 🍽️🔥
 
 ---
